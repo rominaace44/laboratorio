@@ -1,0 +1,27 @@
+:root{
+    font-family: 'Ramaraja', serif;
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 20px;
+}
+
+.fondoA{
+    background-color: rgba(137, 43, 226, 0.765);
+    text-align: center;
+    padding: 15px;
+}
+.fondoB{
+    background-color: rgb(194, 136, 248);
+    text-align: center;
+    padding: 15px;
+    
+}
+.fondoC{
+    background-color: rgba(164, 78, 245, 0.658);
+    /* text-align: center; */
+    padding: 15px;
+}
+.fondoD{
+    background-color: rgba(137, 43, 226, 0.765);
+    padding: 15px;
+    
+}
